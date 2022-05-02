@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkoob
-- 👀 I’m interested in JavaScript, TypeScript, node and React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Databases, Python and Qt
+- 🌱 I’m currently learning to master my live
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me klaus.koob@gmx.de
 
